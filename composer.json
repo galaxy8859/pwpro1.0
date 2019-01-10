@@ -1,0 +1,6 @@
+{
+    "require":{
+        "elasticsearch/elasticsearch" : "~6.0",
+        "simplesoftwareio/simple-qrcode": "1.3.*"
+    }
+}

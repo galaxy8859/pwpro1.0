@@ -1,0 +1,1 @@
+1 boot/pub_function.php  中 getSystem  将system内容直接优化进内存  getSystem 直接读取 redis
